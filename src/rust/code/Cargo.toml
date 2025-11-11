@@ -1,0 +1,9 @@
+[package]
+name = "src"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+gtk = "0.14"      # GTK 3 bindings
+glib = "0.14"
+meval = "0.2"
